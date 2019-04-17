@@ -8,30 +8,15 @@
 <channel>
 	<title>
 	Comments for NotesOfLit	</title>
-	<atom:link href="/ https://mominulislam23.github.io/notesoflit/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/ https://mominulislam23.github.io/notesoflit</link>
-	<description>Just another WordPress site</description>
+	<atom:link href="https://mominulislam23.github.io/notesoflit/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mominulislam23.github.io/notesoflit</link>
+	<description>A Site FIlled With Literary Notes</description>
 	<lastBuildDate>
-	Tue, 16 Apr 2019 18:35:28 +0000	</lastBuildDate>
+	Wed, 17 Apr 2019 09:42:49 +0000	</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.1.1</generator>
-			<item>
-				<title>
-				Comment on Hello world! by A WordPress Commenter				</title>
-				<link>/ https://mominulislam23.github.io/notesoflit/2019/04/16/hello-world/#comment-1</link>
-		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Tue, 16 Apr 2019 18:35:28 +0000</pubDate>
-		<guid isPermaLink="false">/ https://mominulislam23.github.io/notesoflit/?p=1#comment-1</guid>
-					<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-		<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-						</item>
-			</channel>
+</channel>
 </rss>

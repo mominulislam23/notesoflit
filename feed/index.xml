@@ -9,32 +9,24 @@
 
 <channel>
 	<title>NotesOfLit</title>
-	<atom:link href="/ https://mominulislam23.github.io/notesoflit/feed/" rel="self" type="application/rss+xml" />
-	<link>/ https://mominulislam23.github.io/notesoflit</link>
-	<description>Just another WordPress site</description>
+	<atom:link href="https://mominulislam23.github.io/notesoflit/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mominulislam23.github.io/notesoflit</link>
+	<description>A Site FIlled With Literary Notes</description>
 	<lastBuildDate>
-	Tue, 16 Apr 2019 18:35:28 +0000	</lastBuildDate>
+	Tue, 16 Apr 2019 20:35:10 +0000	</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.1.1</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>/ https://mominulislam23.github.io/notesoflit/2019/04/16/hello-world/</link>
-				<comments>/ https://mominulislam23.github.io/notesoflit/2019/04/16/hello-world/#comments</comments>
-				<pubDate>Tue, 16 Apr 2019 18:35:28 +0000</pubDate>
-		<dc:creator><![CDATA[ayan]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/ https://mominulislam23.github.io/notesoflit/?p=1</guid>
-				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-								<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-							<wfw:commentRss>/ https://mominulislam23.github.io/notesoflit/2019/04/16/hello-world/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-							</item>
-	</channel>
+<image>
+	<url>https://mominulislam23.github.io/notesoflit/wp-content/uploads/2019/04/cropped-cropped-Logo-32x32-32x32.png</url>
+	<title>NotesOfLit</title>
+	<link>https://mominulislam23.github.io/notesoflit</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
 </rss>
